@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\bin\Debug\Demo_E.exe.config
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\bin\Debug\Demo_E.exe
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\bin\Debug\Demo_E.pdb
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.Properties.Resources.resources
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.csproj.CopyComplete
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.exe
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.pdb
+C:\Users\Admin\Desktop\учеба\Konsp\PrepForDE\Demo_E\Demo_E\obj\Debug\Demo_E.Authorization.resources
